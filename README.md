@@ -1,4 +1,4 @@
-# Crud
+# Crud the Libros
 Crud in node js , express to (Create, Read, Update, Delete) , and use mysql to data base 
 
 
@@ -11,7 +11,13 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 Mira Deployment para conocer como desplegar el proyecto.
 
 Pre-requisitos 📋
+
 .install node js version 14 
 .mysql 
 .postman
 
+Caracteristicas 
+Poder crear libros 
+modificar libros
+ver libros
+y borrar los libros existentes 
